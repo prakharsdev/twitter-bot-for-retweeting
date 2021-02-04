@@ -1,6 +1,6 @@
 import tweepy
 from time import sleep
-
+ 
 # Import Twitter credentials from credentials.py
 from credentials import *
 
